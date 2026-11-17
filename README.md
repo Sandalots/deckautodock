@@ -1,4 +1,4 @@
-# Steam Deck Auto Dock-to-Desktop
+# Deck Auto Dock
 
 Automatically switches your Steam Deck to **Desktop Mode** when docked to an external monitor, and returns to **Gaming Mode** when unplugged.
 
