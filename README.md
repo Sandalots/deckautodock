@@ -5,8 +5,8 @@ Automatically switches your Steam Deck to **Desktop Mode** when docked to an ext
 ## Repository Structure
 
 * `README.md` — Documentation and installation instructions.
-* `dock-to-desktop.sh` — Shell script that checks display status and switches SteamOS sessions.
-* `99-dock-desktop.rules` — Udev rule that triggers the script on display hotplug events.
+* `deckautodock.sh` — Shell script that checks display status and switches SteamOS sessions.
+* `99-deckautodock.rules` — Udev rule that triggers the script on display hotplug events.
 
 ## How It Works (System Interfaces)
 
